@@ -1,0 +1,17 @@
+F:\Major Project\FinanceM\FinanceM\bin\Debug\FinanceM.exe
+F:\Major Project\FinanceM\FinanceM\bin\Debug\FinanceM.pdb
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.Dashboard.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.Properties.Resources.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.csproj.GenerateResource.Cache
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.exe
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.pdb
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.csprojResolveAssemblyReference.cache
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.Expenses.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.Incomes.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.Login.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.ViewExpenses.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.ViewIncomes.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.Users.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.Budget.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.ViewBudget.resources
+F:\Major Project\FinanceM\FinanceM\obj\x86\Debug\FinanceM.ViewUsers.resources
